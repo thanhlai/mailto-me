@@ -1,2 +1,2 @@
-# mailto-me
+# mailto:me
 The mailto:me Repository
